@@ -38,13 +38,13 @@ Support
 If you are having issues, please let us know at: dmmoody@gmail.com
 
 Bug reports
-===========
+-----------
 
 If you discover any bugs, feel free to create an issue on GitHub. Please add as much information as possible to help us fixing the possible bug. We also encourage you to help even more by forking and sending us a pull request.
 
 https://github.com/dmmoody/scrabble_score/issues
 
 License
-=======
+-------
 
 MIT License. Copyright 2014 Duane M. Moody | <a href="http://moodyco.de">MoodyCo.de</a>
